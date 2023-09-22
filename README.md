@@ -74,6 +74,7 @@ The objective of this experiment is to deliver insights to understand customer d
 | Sentiment | It gives positive, negative or neutral sentiment for an app. |
 | Sentiment_Polarity |  Polarity score based on user reviews | 
 | Sentiment_Subjectivity | Subjectivity score based on user reviews |
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📋Problem Statements
